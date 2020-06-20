@@ -14,8 +14,6 @@ This is a simple raffle script. I use this when i am hungry but can't decide whi
 
 - Navigate the downloaded folder on the command line.
 
-- Then copy(ctrl + c) the instagram post url that you want to download.
-
 Type:
 ```shell
 raffle.py
