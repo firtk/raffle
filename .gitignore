@@ -1,0 +1,10 @@
+# Dosyalar
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+sublime/
+__pycache__/
+develop-eggs/
+*.egg-info/
+*.egg
