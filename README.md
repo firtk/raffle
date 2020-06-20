@@ -23,4 +23,4 @@ raffle.py
 
 ## License
 
-Unlicensed aka Public Domain.
+[Unlicensed](LICENSE) aka Public Domain.
